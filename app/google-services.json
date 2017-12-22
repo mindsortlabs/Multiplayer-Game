@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "719325002783",
+    "project_id": "multiplayer-trial-game-8835267"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719325002783:android:30a958b7b6d53108",
+        "android_client_info": {
+          "package_name": "com.kartik.multiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719325002783-ikhv7dq2l977qu8fen49adcamahdvdj1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "719325002783-hd525bido0vg3cru7gd9smusom78uab9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartik.multiplayer",
+            "certificate_hash": "1c9c108432591eb14e4d1e74f64e146c2915b8c2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKkW3vCq56qIU2vrbhCokvQNZuhGoa2Vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-111403828-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
